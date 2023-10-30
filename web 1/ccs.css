@@ -1,0 +1,38 @@
+html {
+  min-height: 50%;
+}
+h4{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+body{
+  background-image: url('Untitled flag 2.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  width: auto;
+  height: auto;
+}
+pre{
+  background-attachment: black;
+  text-align: center;
+}
+h5{
+  text-align: right;
+
+}
+
+pre{
+  text-align: center;
+  text-size-adjust: center;
+}
+p.border{
+  border-color: salmon;
+  border-inline-color: black;
+}
+.part1
+{
+  text-align: left
+}
